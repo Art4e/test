@@ -273,6 +273,11 @@ body {
   grid-column: 3 / span 1;
   text-align: end;
 }
+.footer__logo-img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
 
 .calendar {
   grid-column: 1 / span 3;
